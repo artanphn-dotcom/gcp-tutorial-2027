@@ -1,5 +1,7 @@
 # GCP Network Engineer Hub
 
+![Project preview](./222.jpg)
+
 A modern, responsive reference application for Google Cloud networking engineers. The project combines a structured command database, troubleshooting playbooks, learning content, and architecture references into a clean engineering portal.
 
 ## Overview
